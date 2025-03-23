@@ -1,4 +1,4 @@
-# WooManager - פלטפורמה לניהול סוכני AI לחנויות WooCommerce
+# WooManager -  Ecom AI Agent
 
 <div dir="rtl">
 
