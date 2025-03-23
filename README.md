@@ -28,9 +28,11 @@ WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי ח
 
   ![בסיסי ידע וזיכרון](./screenshoots/knowlage%20base%20and%20memory.png)
 
-- **אבטחה מתקדמת** - מערכת אימות והרשאות מלאה
+- **הגדרות מודל ה-LLM** - שליטה מלאה בהגדרות המודל ובפרמטרים מתקדמים
 
-  ![הגדרות מתקדמות ואבטחה](./screenshoots/advanced%20settings.png)
+  ![הגדרות מודל מתקדמות](./screenshoots/advanced%20settings.png)
+
+- **אבטחה מתקדמת** - מערכת אימות והרשאות מלאה
 
 ## טכנולוגיות
 
@@ -172,9 +174,11 @@ WooManager is an advanced platform that enables WooCommerce store managers to cr
 
   ![Knowledge Base and Memory](./screenshoots/knowlage%20base%20and%20memory.png)
 
-- **Advanced Security** - Complete authentication and authorization system
+- **LLM Model Settings** - Full control over model settings and advanced parameters
 
-  ![Advanced Settings and Security](./screenshoots/advanced%20settings.png)
+  ![Advanced Model Settings](./screenshoots/advanced%20settings.png)
+
+- **Advanced Security** - Complete authentication and authorization system
 
 ## Technologies
 
