@@ -28,6 +28,8 @@ WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי ח
 
 - **אבטחה מתקדמת** - מערכת אימות והרשאות מלאה
 
+  ![הגדרות מתקדמות ואבטחה](./screenshoots/advanced%20settings.png)
+
 ## טכנולוגיות
 
 הפרויקט בנוי כאפליקציית Next.js (גרסה 15.2.2) עם React (גרסה 19.0.0), המשתמשת ב:
@@ -167,6 +169,8 @@ WooManager is an advanced platform that enables WooCommerce store managers to cr
   ![Knowledge Base and Memory](./screenshoots/knowlage%20base%20and%20memory.png)
 
 - **Advanced Security** - Complete authentication and authorization system
+
+  ![Advanced Settings and Security](./screenshoots/advanced%20settings.png)
 
 ## Technologies
 
