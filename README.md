@@ -28,6 +28,10 @@ WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי ח
 
   ![בסיסי ידע וזיכרון](./screenshoots/knowlage%20base%20and%20memory.png)
 
+- **אימון ושיפור ביצועים** - כלים לאימון הסוכן ושיפור יכולותיו
+
+  ![אימון הסוכן](./screenshoots/trening.png)
+
 - **הגדרות מודל ה-LLM** - שליטה מלאה בהגדרות המודל ובפרמטרים מתקדמים
 
   ![הגדרות מודל מתקדמות](./screenshoots/advanced%20settings.png)
@@ -173,6 +177,10 @@ WooManager is an advanced platform that enables WooCommerce store managers to cr
 - **Knowledge Bases** - Ability to connect knowledge bases to agents
 
   ![Knowledge Base and Memory](./screenshoots/knowlage%20base%20and%20memory.png)
+
+- **Training and Performance Improvement** - Tools for training the agent and improving its capabilities
+
+  ![Agent Training](./screenshoots/trening.png)
 
 - **LLM Model Settings** - Full control over model settings and advanced parameters
 
