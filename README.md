@@ -6,15 +6,18 @@ WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי ח
 
 ## סקירה כללית
 
-![דשבורד WooManager](./screenshoots/dashboard.png)
+המערכת מציעה ממשק ניהול מתקדם לסוכני AI עבור חנויות מקוונות, עם פתרונות משולבים לתקשורת עם לקוחות, ניתוח ביצועים ואופטימיזציה.
 
 ## תכונות מרכזיות
 
 - **ניהול סוכני AI** - יצירה, עריכה, הפעלה והשבתה של סוכני AI חכמים
 
-  ![יצירת סוכן חדש](./screenshoots/new%20agent.png)
+  ![דשבורד WooManager](./screenshoots/dashboard.png)
 
 - **תמיכה בפלטפורמות מובילות** - אינטגרציה מלאה עם טלגרם וואטסאפ
+
+  ![יצירת סוכן חדש](./screenshoots/new%20agent.png)
+
 - **אינטגרציה עם WooCommerce** - חיבור ישיר לחנויות מקוונות
 
   ![אינטגרציה עם WooCommerce](./screenshoots/woocommarce%20integration.png)
@@ -156,15 +159,18 @@ WooManager is an advanced platform that enables WooCommerce store managers to cr
 
 ## Overview
 
-![WooManager Dashboard](./screenshoots/dashboard.png)
+The system offers an advanced management interface for AI agents for online stores, with integrated solutions for customer communication, performance analysis, and optimization.
 
 ## Key Features
 
 - **AI Agent Management** - Create, edit, activate, and deactivate intelligent AI agents
 
-  ![Creating a New Agent](./screenshoots/new%20agent.png)
+  ![WooManager Dashboard](./screenshoots/dashboard.png)
 
 - **Support for Leading Platforms** - Full integration with Telegram and WhatsApp
+
+  ![Creating a New Agent](./screenshoots/new%20agent.png)
+
 - **WooCommerce Integration** - Direct connection to online stores
 
   ![WooCommerce Integration](./screenshoots/woocommarce%20integration.png)
