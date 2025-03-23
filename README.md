@@ -14,6 +14,9 @@ WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי ח
 
 - **תמיכה בפלטפורמות מובילות** - אינטגרציה מלאה עם טלגרם וואטסאפ
 - **אינטגרציה עם WooCommerce** - חיבור ישיר לחנויות מקוונות
+
+  ![אינטגרציה עם WooCommerce](./screenshoots/woocommarce%20integration.png)
+
 - **ממשק בעברית** - מותאם במלואו לקהל יעד דובר עברית
 - **סטטיסטיקות מתקדמות** - ניתוח ביצועים והתנהגות משתמשים
 
@@ -148,6 +151,9 @@ WooManager is an advanced platform that enables WooCommerce store managers to cr
 
 - **Support for Leading Platforms** - Full integration with Telegram and WhatsApp
 - **WooCommerce Integration** - Direct connection to online stores
+
+  ![WooCommerce Integration](./screenshoots/woocommarce%20integration.png)
+
 - **Hebrew Interface** - Fully adapted for Hebrew-speaking audience
 - **Advanced Statistics** - Performance analysis and user behavior tracking
 
