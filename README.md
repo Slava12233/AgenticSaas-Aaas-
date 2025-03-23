@@ -2,21 +2,23 @@
 
 WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי חנויות WooCommerce ליצור, לנהל ולעקוב אחר סוכני AI חכמים המתקשרים עם לקוחות דרך טלגרם וואטסאפ.
 
-## צילומי מסך
+## סקירה כללית
 
-### דשבורד ניהול הסוכנים
 ![דשבורד WooManager](./screenshoots/dashboard.png)
-
-### לוג פעילות הסוכנים
-![לוג פעילות סוכנים](./screenshoots/logs.png)
 
 ## תכונות מרכזיות
 
 - **ניהול סוכני AI** - יצירה, עריכה, הפעלה והשבתה של סוכני AI חכמים
+
+  ![יצירת סוכן חדש](./screenshoots/new%20agent.png)
+
 - **תמיכה בפלטפורמות מובילות** - אינטגרציה מלאה עם טלגרם וואטסאפ
 - **אינטגרציה עם WooCommerce** - חיבור ישיר לחנויות מקוונות
 - **ממשק בעברית** - מותאם במלואו לקהל יעד דובר עברית
 - **סטטיסטיקות מתקדמות** - ניתוח ביצועים והתנהגות משתמשים
+
+  ![לוג פעילות סוכנים](./screenshoots/logs.png)
+
 - **בסיסי ידע** - יכולת לחבר בסיסי ידע לסוכנים
 - **אבטחה מתקדמת** - מערכת אימות והרשאות מלאה
 
@@ -134,13 +136,23 @@ yarn dev
 
 WooManager is an advanced platform that enables WooCommerce store managers to create, manage, and track intelligent AI agents that communicate with customers via Telegram and WhatsApp.
 
+## Overview
+
+![WooManager Dashboard](./screenshoots/dashboard.png)
+
 ## Key Features
 
 - **AI Agent Management** - Create, edit, activate, and deactivate intelligent AI agents
+
+  ![Creating a New Agent](./screenshoots/new%20agent.png)
+
 - **Support for Leading Platforms** - Full integration with Telegram and WhatsApp
 - **WooCommerce Integration** - Direct connection to online stores
 - **Hebrew Interface** - Fully adapted for Hebrew-speaking audience
 - **Advanced Statistics** - Performance analysis and user behavior tracking
+
+  ![Agent Activity Logs](./screenshoots/logs.png)
+
 - **Knowledge Bases** - Ability to connect knowledge bases to agents
 - **Advanced Security** - Complete authentication and authorization system
 
