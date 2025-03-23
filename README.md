@@ -2,7 +2,10 @@
 
 WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי חנויות WooCommerce ליצור, לנהל ולעקוב אחר סוכני AI חכמים המתקשרים עם לקוחות דרך טלגרם וואטסאפ.
 
-![WooManager](https://via.placeholder.com/1200x600?text=WooManager)
+## צילומי מסך
+
+### דשבורד ניהול הסוכנים
+![דשבורד WooManager](./screenshoots/dashboard.png)
 
 ## תכונות מרכזיות
 
