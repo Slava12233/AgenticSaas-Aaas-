@@ -23,6 +23,9 @@ WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי ח
   ![לוג פעילות סוכנים](./screenshoots/logs.png)
 
 - **בסיסי ידע** - יכולת לחבר בסיסי ידע לסוכנים
+
+  ![בסיסי ידע וזיכרון](./screenshoots/knowlage%20base%20and%20memory.png)
+
 - **אבטחה מתקדמת** - מערכת אימות והרשאות מלאה
 
 ## טכנולוגיות
@@ -160,6 +163,9 @@ WooManager is an advanced platform that enables WooCommerce store managers to cr
   ![Agent Activity Logs](./screenshoots/logs.png)
 
 - **Knowledge Bases** - Ability to connect knowledge bases to agents
+
+  ![Knowledge Base and Memory](./screenshoots/knowlage%20base%20and%20memory.png)
+
 - **Advanced Security** - Complete authentication and authorization system
 
 ## Technologies
