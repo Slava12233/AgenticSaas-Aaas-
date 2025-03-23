@@ -7,6 +7,9 @@ WooManager הינה פלטפורמה מתקדמת המאפשרת למנהלי ח
 ### דשבורד ניהול הסוכנים
 ![דשבורד WooManager](./screenshoots/dashboard.png)
 
+### לוג פעילות הסוכנים
+![לוג פעילות סוכנים](./screenshoots/logs.png)
+
 ## תכונות מרכזיות
 
 - **ניהול סוכני AI** - יצירה, עריכה, הפעלה והשבתה של סוכני AI חכמים
@@ -229,9 +232,9 @@ The system contains APIs for managing agents, users, and interactions:
 - **Agents API:**
   - `GET /api/agents` - Get list of agents
   - `GET /api/agents/:id` - Get specific agent details
-  - `POST /api/agents` - Create a new agent
+  - `POST /api/agents` - Create new agent
   - `PUT /api/agents/:id` - Update agent details
-  - `DELETE /api/agents/:id` - Delete an agent
+  - `DELETE /api/agents/:id` - Delete agent
 
 - **Analytics API:**
   - `GET /api/agents/:id/stats` - Get agent statistics
@@ -240,11 +243,13 @@ The system contains APIs for managing agents, users, and interactions:
 
 ## Deployment
 
-Recommended deployment platforms:
+The application is recommended to be deployed on:
 
-- **Vercel** - For the Frontend part
-- **Node.js hosting services** - For the Backend part
+- **Vercel** - For the Frontend
+- **Node.js hosting platforms** - For the Backend
 
 ## Development Status
 
-The project is currently in development stage, with support for local development mode. The data in the working environment is mostly mock data, allowing development and testing without the need for a real API server.
+The project is currently in development, with local development environment support. The data in the development environment is mainly mock data, allowing for development and testing without needing a real API server.
+
+---
